@@ -1,7 +1,7 @@
 # My-Data-Analyst-Portfolio-Project
 ## Road Accident Analysis using Excel, Power BI, SQL
 
-The project “Road Accident Excel Dashboard.zip” can be downloaded at: 
+THE PROJECT IN EXCEL “Road Accident Excel Dashboard.zip” CAN BE DOWNLOADED AT: 
 https://drive.google.com/file/d/1xRRWm_BpZdQEp4zxS6rEjRRuY_HueeVG/view?usp=sharing
 
 # SOFTWARE USED
