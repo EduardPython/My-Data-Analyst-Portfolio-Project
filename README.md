@@ -60,9 +60,9 @@ Vytvoř přehled dopravních nehod pro rok 2021 a 2022, doplň o níže uvedené
 1. DATA CLEANING
  ![image](https://github.com/EduardPython/My-Data-Analyst-Portfolio-Project/assets/93093821/1ae02438-a53e-42f6-a9ce-312506764cd7)
 
- ![](RackMultipart20240211-1-ip6yyu_html_6f65e01fd43ef11d.png)
+ ![image](RackMultipart20240211-1-ip6yyu_html_6f65e01fd43ef11d.png)
 2. DATA PROCESSING
- ![](RackMultipart20240211-1-ip6yyu_html_49517995a3281a9c.png) ![](RackMultipart20240211-1-ip6yyu_html_3afed14048fe253c.png)
+ ![image](RackMultipart20240211-1-ip6yyu_html_49517995a3281a9c.png) ![](RackMultipart20240211-1-ip6yyu_html_3afed14048fe253c.png)
 3. DATA MODELLING
  ![](RackMultipart20240211-1-ip6yyu_html_96c20e9b596562a1.png)
 4. DATA VISUALIZATION
