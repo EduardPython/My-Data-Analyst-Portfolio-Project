@@ -48,7 +48,7 @@ Vytvoř přehled dopravních nehod pro rok 2021 a 2022, doplň o níže uvedené
 - Počet obětí za běžný rok podle oblasti/ lokality a podle dne/ noci
 - Celkový počet obětí a celkový počet nehod podle lokality
 
-## STAKEHOLDERS ZÚČASTNĚNÉ STRANY
+## STAKEHOLDERS                         ZÚČASTNĚNÉ STRANY
 
 | Ministry of TransportRoad Transport DepartmentPolice ForceEmergency Services DepartmentRoad Safety CorpsTransport OperatorsTraffic Management AgenciesPublicMedia | Ministerstvo dopravy Odbor silniční dopravy Policejní sbor Oddělení záchranných služeb Sbor pro bezpečnost silničního provozu Dopravní operátoři Agentury pro řízení dopravy VeřejnostMédia |
 | --- | --- |
@@ -58,14 +58,16 @@ Vytvoř přehled dopravních nehod pro rok 2021 a 2022, doplň o níže uvedené
 
 
 1. DATA CLEANING
+ ![image](https://github.com/EduardPython/My-Data-Analyst-Portfolio-Project/assets/93093821/1ae02438-a53e-42f6-a9ce-312506764cd7)
+
  ![](RackMultipart20240211-1-ip6yyu_html_6f65e01fd43ef11d.png)
-1. DATA PROCESSING
+2. DATA PROCESSING
  ![](RackMultipart20240211-1-ip6yyu_html_49517995a3281a9c.png) ![](RackMultipart20240211-1-ip6yyu_html_3afed14048fe253c.png)
-1. DATA MODELLING
+3. DATA MODELLING
  ![](RackMultipart20240211-1-ip6yyu_html_96c20e9b596562a1.png)
-1. DATA VISUALIZATION
+4. DATA VISUALIZATION
  ![](RackMultipart20240211-1-ip6yyu_html_21ae8aae0a41d5b6.png)
-1. DASHBOARD BUILDING
+5. DASHBOARD BUILDING
  ![](RackMultipart20240211-1-ip6yyu_html_a7f7ff1207069817.png) |
 ## KROKY V PROJEKTU
 
@@ -86,15 +88,10 @@ Vytvoř přehled dopravních nehod pro rok 2021 a 2022, doplň o níže uvedené
 
 
 
- 5. DASHBOARD |
-| --- | --- |
+ 5. DASHBOARD 
 
-## STAKEHOLDERS ZÚČASTNĚNÉ STRANY
 
-| Ministry of TransportRoad Transport DepartmentPolice ForceEmergency Services DepartmentRoad Safety CorpsTransport OperatorsTraffic Management AgenciesPublicMedia | Ministerstvo dopravy Odbor silniční dopravy Policejní sbor Oddělení záchranných služeb Sbor pro bezpečnost silničního provozu Dopravní operátoři Agentury pro řízení dopravy VeřejnostMédia |
-| --- | --- |
-
-## METADATA METADATA
+## METADATA
 
 | File Extension - .csv Number of Rows – 307 973 Number of Fields - 21 | Přípona souboru - .csv Počet řádků - 307 973Počet polí - 21 |
 | --- | --- |
