@@ -33,8 +33,8 @@ Create a list of traffic accidents for 2021 and 2022, supplemented with the requ
 
 # STAKEHOLDERS
 
-Ministry of Transport
-Road Transport Department
+Ministry of Transport |
+Road Transport Department |
 Police Force
 Emergency Services Department
 Road Safety Corps
