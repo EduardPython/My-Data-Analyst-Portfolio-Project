@@ -34,27 +34,17 @@ Create a list of traffic accidents for 2021 and 2022, supplemented with the requ
 # STAKEHOLDERS
 
 Ministry of Transport
-
 Road Transport Department
-
 Police Force
-
 Emergency Services Department
-
 Road Safety Corps
-
 Transport Operators
-
 Traffic Management Agencies
-
 Public
-
 Media
 
 # METADATA
 
 File Extension - .csv
-
 Number of Rows – 307 973
-
 Number of Fields - 21
